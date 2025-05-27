@@ -1,0 +1,3 @@
+# Casos de uso 
+
+![diagrama de casos de uso](https://www.plantuml.com/plantuml/png/RP0nQWD134LxdK9ixoAsws1mRX2INing7S7ko4YQAkGm8KNka7OlbXb8y6Ac_NhlW_x9WopACiFCKs0ecbpU0aSnJY6Q0IY56ZvnBZa9vM20TgDycHc7P_7WXN3aXgm_ZV41tm6nE2VoofnDo6xd0SdnvVomHLxPP99KCG-AuZZMoZjXtnUChoLe_Lw_j5gErvc29hM5_4yyTCLRl-F44arLGorXwfKlwwU9_dSSuGDWCmBkTe_jYKwsxsI7JdQ44-UnRlyB)
