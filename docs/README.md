@@ -1,1 +1,1 @@
-!(https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700002)
+![Diagrama de Caso de Uso](https://www.plantuml.com/plantuml/png/RT31YeD030RWUvuYUFUmwdaHt3tkPPVjFSn46nZ7CibSMlf8VOg-M15457lzy_6Jf5MZP7aC4BWtj0cJ36T3BucToHG1oDcKy5ijUuh60FE4uX0OYpzHuv7GC_wGfUV3vK05tW0nApjInkANASYLqawGud_tiMKTHSVX7Qksx2IQbxulKIUN895qaVLESf9UtBPnXGtS0TQJi2m_vtKEINL8waFIGClHpnzy0G00)
