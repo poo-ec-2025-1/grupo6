@@ -10,3 +10,30 @@
 
 ![diagrama de casos de uso](https://www.plantuml.com/plantuml/png/RS-nIeD13C3nFKyHkXUnxIoLkheeFa2uIpy3TnT9SfFuCEBWExZUY_afM4lRzPyV8Tbwa4Ml1Ghl0qFHP7eEp6ASGhG1K0erlDVCHbaDu6T2RIgCYqVnu4gO6U-uZQ-MX7o1hu3OdHFvR6uJkvFDvX-GuzFk-aH9a5qPftvHhuxr0tkOj4biRdsyc-YVMn-xdTRU9D7u71-AIIk-50hQgzN3uWsy0HpUm-NovlUsqx8wA-kpie4jjznh-GO0)
 
+# Caso de uso de plataforma
+
+![diagrama de casos de uso](https://www.plantuml.com/plantuml/png/POy_JiCn38Ltd-AfUmVQ7LLg3u107C1A_2kHahYAdGbn6WOcBi2QYn7A7ofrVVxU--ITEJVl9LEMnU6AbevFZfYQ14zQYJYuDjnbTbwq5IRwEd4zPi7g8PbBOKJ1GUhug26nhV1CG3S9R9FPQ-ar1HvlurKHjA1ebCPHcqoM3O_xcyl2GHQnysQJK_VluW-ukGJlnKvgpfZmdnqpb33UbwdydT_I2z7_2rYlRy_IgsXp7Mrf9pNsaZy1).
+
+# Diagrama de sequência de possível ação:
+Cadastrando denúncia
+
+![diagrama de sequência](https://www.plantuml.com/plantuml/png/bP0nJaCn44HxdsBB82LAJu4YGKl52KRs9h7qlRRMDlU9A3W07QqlnWgHh_zJWEYycfattZtK1cqzJGw-PQKdbYu-GXgxOahqiTX0Bx4sJlXnFUV0Yf3LkKM0TWzN7zsJHq1jclTJFaNPzDh7HMFUKcKvuyvTdJjBBI6Mp7ACcZ3Unrkcm3UeFokXLyVcrngaaYiLAAWei_Wpwng-ei-Un-_W9g1XIrvZuYsLoQPZrWHxQtvTBdXRN1jQhnH0WMLycW2ZizZKU1cRpsmX2APOLwlDyleACvJWEJRiXKy8-DT_26LyL8ACYxMoEx24dgOl)
+
+
+# Exemplos de possíveis classes e códigos para o funcionamento de algumas funcionalidades da aplicação
+
+No escopo do projeto, existem três possíveis usuários: moderador, plataforma e usuário comum. No exemplo abaixo, o diagrama de classes relaciona esses três usuários a uma classe mãe, usuário comum, que possui aplicações gerais, sem especificações para cada caso:
+
+![diagrama de classe](https://www.plantuml.com/plantuml/png/XP4zJiD048NxFSN8JVXH2beNA19f4H8HTJHu9ywW_ObcPsaG4dVW49o0XZOtuIHumR4LWuIhzPltvdtQNIH5qUoTKLP7i6Hi1Js29RXoc18b-7nvXHKdfHzvIM7_4Hf6Onnj53I2SBjLi2pKACTWp6m8xuGxxmuvcQP89PvBEYZ1au7kcqEyVo3bnrZ3IZj_syiOOc2FEjLjloAjDyIAgGOE-ZqxxqwRA1xbfbzvSZg4dqsFS1qj2Tee_m6CHTYCJR-6GarEQ8z1D2gwjQNru2iePJvmtAMCmd6W2D7JXA11fJOAuqHF5BPug2iRPt1B3lTl-tTAG4abQvPowuUIwgo2-VmIgelgw0rgiEFVd-xnkchmXxCn2mesU_S5)
+
+A classe Plataforma teria relações parecidas com a classe Usuario. E em linguagem java, alguns métodos poderiam ser codificados da seguinte forma: 
+
+
+**Exemplo real (em JavaScript):**
+
+
+
+
+
+
+
