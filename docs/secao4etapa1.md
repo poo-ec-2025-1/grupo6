@@ -20,41 +20,10 @@ Cadastrando denúncia
 ![diagrama de sequência](https://www.plantuml.com/plantuml/png/bP0nJaCn44HxdsBB82LAJu4YGKl52KRs9h7qlRRMDlU9A3W07QqlnWgHh_zJWEYycfattZtK1cqzJGw-PQKdbYu-GXgxOahqiTX0Bx4sJlXnFUV0Yf3LkKM0TWzN7zsJHq1jclTJFaNPzDh7HMFUKcKvuyvTdJjBBI6Mp7ACcZ3Unrkcm3UeFokXLyVcrngaaYiLAAWei_Wpwng-ei-Un-_W9g1XIrvZuYsLoQPZrWHxQtvTBdXRN1jQhnH0WMLycW2ZizZKU1cRpsmX2APOLwlDyleACvJWEJRiXKy8-DT_26LyL8ACYxMoEx24dgOl)
 
 
-# Exemplos de possíveis classes e códigos para o funcionamento de algumas funcionalidades da aplicação
-
-No escopo do projeto, existem três possíveis usuários: moderador, plataforma e usuário comum. No exemplo abaixo, o diagrama de classes relaciona esses três usuários a uma classe mãe, usuário comum, que possui aplicações gerais, sem especificações para cada caso:
+# Diagrama de Classe
 
 ![diagrama de classe](https://www.plantuml.com/plantuml/png/XP4zJiD048NxFSN8JVXH2beNA19f4H8HTJHu9ywW_ObcPsaG4dVW49o0XZOtuIHumR4LWuIhzPltvdtQNIH5qUoTKLP7i6Hi1Js29RXoc18b-7nvXHKdfHzvIM7_4Hf6Onnj53I2SBjLi2pKACTWp6m8xuGxxmuvcQP89PvBEYZ1au7kcqEyVo3bnrZ3IZj_syiOOc2FEjLjloAjDyIAgGOE-ZqxxqwRA1xbfbzvSZg4dqsFS1qj2Tee_m6CHTYCJR-6GarEQ8z1D2gwjQNru2iePJvmtAMCmd6W2D7JXA11fJOAuqHF5BPug2iRPt1B3lTl-tTAG4abQvPowuUIwgo2-VmIgelgw0rgiEFVd-xnkchmXxCn2mesU_S5)
 
-A classe Plataforma teria relações parecidas com a classe Usuario. E em linguagem java, alguns métodos poderiam ser codificados da seguinte forma: 
-
-
-**Exemplo em JavaScript:
-
-```java
-public class Usuario
-{
-    String nome;
-    String categoria;
-    int senha;
-    
-    public void criarUsuario(String nome, String categoria, int senha){
-        this.nome = nome;
-        this.categoria = categoria;
-        this.senha = senha;
-        System.out.println("Usuário " + this.categoria + " criado \n");
-    }
-    
-    public boolean entrar(String nome, int senha){
-        if(this.nome == nome && this.senha == senha){
-            return true;
-        }
-        else{
-            return false;
-        }
-    }
-
-}
 
 
 
