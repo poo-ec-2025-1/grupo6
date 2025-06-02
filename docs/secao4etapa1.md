@@ -29,7 +29,33 @@ No escopo do projeto, existem três possíveis usuários: moderador, plataforma 
 A classe Plataforma teria relações parecidas com a classe Usuario. E em linguagem java, alguns métodos poderiam ser codificados da seguinte forma: 
 
 
-**Exemplo real (em JavaScript):**
+**Exemplo em JavaScript:
+
+```java
+public class Usuario
+{
+    String nome;
+    String categoria;
+    int senha;
+    
+    public void criarUsuario(String nome, String categoria, int senha){
+        this.nome = nome;
+        this.categoria = categoria;
+        this.senha = senha;
+        System.out.println("Usuário " + this.categoria + " criado \n");
+    }
+    
+    public boolean entrar(String nome, int senha){
+        if(this.nome == nome && this.senha == senha){
+            return true;
+        }
+        else{
+            return false;
+        }
+    }
+
+}
+
 
 
 
