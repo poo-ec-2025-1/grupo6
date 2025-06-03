@@ -5,7 +5,7 @@
 |---------------- |---------------------|----------------------|
 | Vitória Ribeiro | Líder/documentação/backend  | @vivisawsaw|
 | João            | backend/suporte             | @JoaoP9L   |
-| Isabelle Alves  | ?                           | @Isabelle-alves0|
+| Isabelle Alves  | frontend/suporte            | @Isabelle-alves0|
 | Victor          | frontend                    | @Victormunizsm|
 
 
