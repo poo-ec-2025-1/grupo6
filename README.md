@@ -4,9 +4,9 @@
 | Nome            | Função              | GitHub               |
 |---------------- |---------------------|----------------------|
 | Vitória Ribeiro | Líder/documentação/backend  | @vivisawsaw|
-| João            | backend/suporte             | @JoaoP9L   |
+| João Victor     | frontend                    | @JoaoP9L   |
 | Isabelle Alves  | frontend/suporte            | @Isabelle-alves0|
-| Victor          | frontend                    | @Victormunizsm|
+| Victor Muniz    | backend/suporte             | @Victormunizsm|
 
 
 ## Documentação para a etapa 1
