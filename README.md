@@ -16,3 +16,14 @@
 - seção 3 na tabela acima
 - [seção 4: modelagem inicial, diagrama de classes, diagramas de sequência, casos de uso, etc.](docs/secao4etapa1.md)
 - [Material de código](docs/materialdecódigo.md)
+
+## Documentação para a etapa 2
+
+## seção 1: introdução, justificativa, descrição do problema, motivação, etc
+
+Basicamente, para a etapa 2, a problemática continua a mesma, assim como a motivação para o tratamento do problema.
+
+- [seção 2: objetivos gerais e específicos](docs/secao2etapa2.md)
+- seção 3 na tabela acima
+- [seção 4: modelagem inicial, diagrama de classes, diagramas de sequência, casos de uso, etc.](docs/secao4etapa2.md)
+- [Material de código](docs/materialdecódigo2.md)
