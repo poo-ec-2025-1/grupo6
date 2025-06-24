@@ -16,6 +16,8 @@ Não foram criados diagramas de sequência para ações dos moderadores, o que �
 
 ![diagrama de sequência](https://www.plantuml.com/plantuml/png/TOz1JiCm44NtFiKi6ubUe0jK0LjMdE0JJyj8YISQZoMkKx7W16pOvc8OGZ6HsasasEzzFU-pmxoCGq3lQlIeaGrHBKmmbruc9ASdoSuZLcTtIBs6y2VGzlRCqOu6FKhQb5pcaudUKERqWYwSWMs5cxcZNjD1RCJyFhyfHLxyXgzfVfLdCTAfuX-ShpL4JlDdwWMP9axrpolR9fSNB5pvmUuHaTs-lvikBDTjSJLuO77yMxjSs8HhZKWO9CCUVXistQN2Ou5561ddCZYYKaHLvrDrEOImvnJBE7m1)
 
-Pensa-se nas possibilidades de uso da aplicação por parte das plataformas, que seriam as redes sociais onde ocorreriam os possíveis crimes denunciados. Caso a plataforma seja um ator do processo, poderia ter um cadastro controlado por um representante, mas com limitações, o que dependeria da intermediação dos moderadores entre o público geral e a plataforma, o que é dito no diagrama de caso de uso para o moderador.
+Pensa-se nas possibilidades de uso da aplicação por parte das plataformas, que seriam as redes sociais onde ocorreriam os possíveis crimes denunciados. Caso a plataforma seja um ator do processo, poderia ter um cadastro controlado por um representante, mas com limitações, pois as redes sociais seriam os atores com mais poder na dinâmica, e isso dependeria da intermediação dos moderadores entre o público geral e a plataforma, o que é dito no diagrama de caso de uso para o moderador. Nesse caso, abaixo está um possível diagrama de sequência, baseado no diagrama acima:
+
+![diagrama de sequência](https://www.plantuml.com/plantuml/png/XP91Ri8m44NtFiKiGIeNO56XjjjAbNg28Px0I64SZSTIrTkWBdg2RhhDnJeGm4G2TGEn_TxF7pchRAXMTbt0nfB2Quga69E6tlUvuHx5u9spqGudUqyeJJfPRnqQjaaT2PS4M3oUHLX2bpOiivBBi5TE3v19jZWFPs3XS3MNq2HfsVE6x-4hGQJHh_YKfWzUiqBg7V-XVAz391b-fM7Cq9FuofojaUD88rUEs3D6pAQ7tzayZCSrSHBO4XjUfTriM8Mx7L6muupwSkemczzgk2ce4HMKSkdCKo2YgyFUNReMwisunN9yKiXfhLJBX4fDov0qk6FP7kgqb2TbflF5uxd_GN_9-dz4T-uCY5OS-ZpVFu9INwmkhzuImeea7ZxXFm00)
 
 
