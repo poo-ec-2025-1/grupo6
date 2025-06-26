@@ -20,4 +20,10 @@ Pensa-se nas possibilidades de uso da aplicação por parte das plataformas, que
 
 ![diagrama de sequência](https://www.plantuml.com/plantuml/png/XP91Ri8m44NtFiKiGIeNO56XjjjAbNg28Px0I64SZSTIrTkWBdg2RhhDnJeGm4G2TGEn_TxF7pchRAXMTbt0nfB2Quga69E6tlUvuHx5u9spqGudUqyeJJfPRnqQjaaT2PS4M3oUHLX2bpOiivBBi5TE3v19jZWFPs3XS3MNq2HfsVE6x-4hGQJHh_YKfWzUiqBg7V-XVAz391b-fM7Cq9FuofojaUD88rUEs3D6pAQ7tzayZCSrSHBO4XjUfTriM8Mx7L6muupwSkemczzgk2ce4HMKSkdCKo2YgyFUNReMwisunN9yKiXfhLJBX4fDov0qk6FP7kgqb2TbflF5uxd_GN_9-dz4T-uCY5OS-ZpVFu9INwmkhzuImeea7ZxXFm00)
 
+Na seção [Material de código](materialdecódigo2.md), encontra-se a explicação para a utilidade do diagrama de classes abaixo, com uso de interface:
+
+![print4](https://github.com/user-attachments/assets/1683f478-9eab-48a2-b1f4-88526ad9b990)
+
+
+
 
