@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="360.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="15.0" layoutY="15.0" text="Reputação das Plataformas">
+         <font>
+            <Font name="Verdana Bold" size="36.0" />
+         </font>
+      </Label>
+      <TextField layoutX="160.0" layoutY="98.0" prefHeight="25.0" prefWidth="150.0" promptText="Plataforma" />
+      <Label layoutX="20.0" layoutY="100.0" text="Nome da Plataforma:">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Button layoutX="330.0" layoutY="95.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="80.0" style="-fx-background-color: #363636; -fx-background-radius: 10;" text="Pesquisar" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Label layoutX="20.0" layoutY="140.0" text="Nome: Instagram">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="20.0" layoutY="180.0" text="Avaliação: 4.6 / 5.0">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="20.0" layoutY="220.0" text="Avaliação dos Moderadores: Confiável">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <TextArea layoutX="370.0" layoutY="145.0" prefHeight="130.0" prefWidth="200.0" text="Denúncia recente:&#10;Crime: Xenofobia&#10;Data: 20/05/2025&#10;Descrição: ...&#10;Imagens da denúncia&#10;Nome(Opcional): Usuário C">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextArea>
+      <Label layoutX="20.0" layoutY="300.0" text="Ler comentários sobre a plataforma:">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Button layoutX="308.0" layoutY="297.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="140.0" style="-fx-background-color: #363636; -fx-background-radius: 10;" text="Abrir Comentários" textFill="WHITE">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

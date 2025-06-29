@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="940.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label alignment="CENTER" layoutX="283.0" layoutY="20.0" text="Nome do Site">
+         <font>
+            <Font name="Verdana Bold" size="50.0" />
+         </font>
+      </Label>
+      <Separator layoutX="250.0" opacity="0.3" orientation="VERTICAL" prefHeight="600.0" prefWidth="0.0" />
+      <Button alignment="CENTER" layoutX="20.0" layoutY="280.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Página Inicial" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="20.0" layoutY="180.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: red; -fx-background-radius: 5;" text="Realizar Denúncia" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="760.0" layoutY="30.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="150.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Sua Conta" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Label layoutX="73.0" layoutY="115.0" text="Olá, Usuário!">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="77.0" layoutY="135.0" opacity="0.8" text="Moderador">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="75.0" fitWidth="75.0" layoutX="87.0" layoutY="30.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../Downloads/6522516.png" />
+         </image>
+      </ImageView>
+      <Button alignment="CENTER" layoutX="20.0" layoutY="460.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Verificar Plataformas" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="20.0" layoutY="400.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Pesquisar Denúncias" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="20.0" layoutY="340.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Denúncias Feitas" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Button>
+      <Label layoutX="352.0" layoutY="120.0" text="Denúncias Recentes Gerais">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </Label>
+      <TextArea accessibleRole="TEXT" layoutX="310.0" layoutY="170.0" prefHeight="160.0" prefWidth="320.0" style="-fx-background-color: black; -fx-background-radius: 3;" text="Denúncia Feita por: Usuário A&#10;Tipo: Racismo&#10;Plataforma: X / Twitter&#10;Data: 21/03/2025&#10;Status: Resolvida&#10;Imagem da mensagem denunciada">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextArea>
+      <TextArea accessibleRole="TEXT" layoutX="310.0" layoutY="360.0" prefHeight="160.0" prefWidth="320.0" style="-fx-background-color: black; -fx-background-radius: 3;" text="Denúncia Feita por: Usuário B&#10;Tipo: Machismo&#10;Plataforma: Instagram&#10;Data: 03/01/2025&#10;Status: Resolvida&#10;Imagem da mensagem denunciada">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </TextArea>
+      <Button alignment="CENTER" layoutX="20.0" layoutY="550.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="110.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Suporte" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+      <Label layoutX="715.0" layoutY="120.0" text="Opções de Moderador">
+         <font>
+            <Font name="System Bold" size="16.0" />
+         </font>
+      </Label>
+      <Button alignment="CENTER" layoutX="700.0" layoutY="170.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Analisar Denúncias" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="700.0" layoutY="230.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Responder Usuários" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="700.0" layoutY="290.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Comunicar plataforma" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Button alignment="CENTER" layoutX="700.0" layoutY="350.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="210.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Comunicar autoridades" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <TextArea accessibleRole="TEXT" layoutX="700.0" layoutY="440.0" prefHeight="135.0" prefWidth="210.0" style="-fx-background-color: black; -fx-background-radius: 3;" text="Tipo: Apologia ao Nazismo&#10;Plataforma: X / Twitter&#10;Data: 20/04/2025&#10;Status: Pendente&#10;">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </TextArea>
+      <Label layoutX="769.0" layoutY="409.0" text="Pendente">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Button alignment="CENTER" layoutX="720.0" layoutY="530.0" mnemonicParsing="false" prefHeight="20.0" prefWidth="170.0" style="-fx-background-color: #363636; -fx-background-radius: 20;" text="Abrir denúncia" textFill="WHITE" wrapText="true">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
