@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="415.0" prefWidth="613.0" xmlns="http://javafx.com/javafx/21.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <right>
+      <VBox prefHeight="415.0" prefWidth="172.0" BorderPane.alignment="CENTER" />
+   </right>
+   <left>
+      <AnchorPane prefHeight="415.0" prefWidth="450.0" style="-fx-background-color: #29aaa3;" BorderPane.alignment="CENTER">
+         <children>
+            <Text layoutX="121.0" layoutY="55.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Realizar cadastro">
+               <font>
+                  <Font name="System Bold" size="23.0" />
+               </font>
+            </Text>
+            <Label layoutX="27.0" layoutY="89.0" text=" Nome completo" />
+            <Label layoutX="239.0" layoutY="141.0" text="Senha" />
+            <Label layoutX="27.0" layoutY="141.0" text="E-mail" />
+            <TextField layoutX="239.0" layoutY="107.0" opacity="0.31" prefHeight="28.0" prefWidth="194.0" style="-fx-border-color: #000000;">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </TextField>
+            <TextField layoutX="239.0" layoutY="159.0" opacity="0.31" prefHeight="28.0" prefWidth="193.0" style="-fx-border-color: #000000;" />
+            <Label layoutX="26.0" layoutY="199.0" text="N° Tel." />
+            <TextField layoutX="238.0" layoutY="217.0" opacity="0.31" prefHeight="28.0" prefWidth="195.0" style="-fx-border-color: #000000;" />
+            <Label layoutX="239.0" layoutY="199.0" text="CPF" />
+            <TextField layoutX="28.0" layoutY="217.0" opacity="0.31" prefHeight="28.0" prefWidth="188.0" style="-fx-border-color: #000000;" />
+            <Label layoutX="239.0" layoutY="89.0" text="Data de Nascimento" />
+            <TextField layoutX="26.0" layoutY="159.0" opacity="0.31" prefHeight="28.0" prefWidth="192.0" style="-fx-border-color: #000000;">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </TextField>
+            <TextField layoutX="26.0" layoutY="107.0" opacity="0.31" prefHeight="28.0" prefWidth="191.0" style="-fx-border-color: #000000;">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </TextField>
+            <JFXButton layoutX="326.0" layoutY="328.0" style="-fx-border-color: #000000;" text="Continuar" />
+         </children>
+      </AnchorPane>
+   </left>
+</BorderPane>
