@@ -27,6 +27,9 @@ Basicamente, para a etapa 2, a problemática continua a mesma, assim como a moti
 - seção 3 na tabela acima
 - [seção 4: modelagem inicial, diagrama de classes, diagramas de sequência, casos de uso, etc.](docs/secao4etapa2.md)
 - [Material de código](docs/materialdecódigo2.md)
+- [Telas](docs/TelasFxml)
+- [Exemplo de classe Controller](docs/CódigoDenunciaController.md)
+- [Exemplo de classe View](docs/CódigoDenunciaView.md)
 
 ## Relatórios individuais para a etapa 2 
 
