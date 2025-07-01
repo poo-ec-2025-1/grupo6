@@ -34,6 +34,4 @@ Basicamente, para a etapa 2, a problemática continua a mesma, assim como a moti
 ## Relatórios individuais para a etapa 2 
 
 - [Vitória Ribeiro de Sousa Lima](docs/relatorioVitoria.md)
-- [nome](link)
-- [nome](link)
-- [nome](link)
+
