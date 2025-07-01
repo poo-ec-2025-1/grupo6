@@ -30,6 +30,7 @@ Basicamente, para a etapa 2, a problemática continua a mesma, assim como a moti
 - [Telas](docs/TelasFxml)
 - [Exemplo de classe Controller](docs/CódigoDenunciaController.md)
 - [Exemplo de classe View](docs/CódigoDenunciaView.md)
+- [Todos os documentos das duas etapas](https://github.com/poo-ec-2025-1/grupo6/tree/main/docs)
 
 ## Relatórios individuais para a etapa 2 
 
