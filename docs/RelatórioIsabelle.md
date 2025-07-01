@@ -1,3 +1,6 @@
+# RELATÓRIO INDIVIUAL
+## ISABELLE DE FARIAS ALVES 
+
 # Domínio do Ambiente e Ferramentas: git, Github, VS Code, BlueJ, etc
 Nessa parte do projeto, utilizei o Bluej e SceneBuilder. Fazer a ligação dos dois foi um pouco desafiante, pois as versões não eram compatíveis no meu computador, tive dificuldade de fazer a configuração, consegui utilizar versões antigas, mas não sei até onde pode prejudicar o programa, mas ainda, sim, foi possível utilizar e fazer o necessário. Tentei utilizar outras ferramentas como NetBeans, IntelliJ e VS Code, mas houve bastante complicação na configuração também e acabei decidindo fazer e configurar o arquivo FXML direto no SceneBuilder.
 
