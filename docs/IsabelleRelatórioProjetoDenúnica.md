@@ -166,6 +166,11 @@ A Classe Main está configurada para exibir a janela inicial e unir com os contr
 
   ![image](https://github.com/user-attachments/assets/6f97eaa2-0f28-456b-976a-11e085235b83)
 
+  Diagrama de Sequência:
+  
+  ![image](https://github.com/user-attachments/assets/467b9ec8-01ed-40b9-a3df-4851c50516f9)
+
+
 
 
 
