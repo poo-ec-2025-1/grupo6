@@ -36,3 +36,4 @@ Basicamente, para a etapa 2, a problemática continua a mesma, assim como a moti
 
 - [Vitória Ribeiro de Sousa Lima](docs/relatorioVitoria.md)
 - [Isabelle de Farias Alves](docs/RelatórioIsabelle.md)
+- [João Victor Lima de Oliveira](docs/RelatorioJoao.md)
