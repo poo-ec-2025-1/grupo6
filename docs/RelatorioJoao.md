@@ -6,7 +6,7 @@ Foi utilizado o BlueJ e o Scene Builder para o projeto, eu utilizei majoritariam
 
 ## Domínio da Linguagem Java
 A base do projeto, que embora não tenha sido muito utilizada por mim nesse repositório, nessa pasta tem um exemplo um pouco de tudo utilizado, como classes, tela e até database.
-- [Aqui](docs/ExtraJoao)
+- [Aqui](ExtraJoao)
 
 ## Domínio da Modelagem
 Parte simples, somente um pouco demorada.
