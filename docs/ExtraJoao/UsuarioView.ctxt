@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UsuarioView
+comment1.params=
+comment1.target=UsuarioView()
+comment2.params=controller
+comment2.target=void\ setController(UsuarioController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4

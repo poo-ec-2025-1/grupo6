@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moderador
+comment1.params=
+comment1.target=void\ objetivo()
+comment2.params=
+comment2.target=int\ total_de_denuncias()
+comment3.params=senha
+comment3.target=boolean\ autentica(int)
+numComments=4

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=User
+comment1.params=
+comment1.target=int\ getId()
+comment2.params=id
+comment2.target=void\ setId(int)
+comment3.params=
+comment3.target=java.lang.String\ getnome()
+comment4.params=nome
+comment4.target=void\ setnome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getcategoria()
+comment6.params=categoria
+comment6.target=void\ setcategoria(java.lang.String)
+comment7.params=
+comment7.target=int\ getsenha()
+comment8.params=senha
+comment8.target=void\ setsenha(int)
+numComments=9
