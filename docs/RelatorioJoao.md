@@ -18,8 +18,14 @@ Parte relativamente simples de fazer, umas poucas pesquisas e pronto.
 ## Tela de Login
 ![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/login.png)
 
-## Tela de Denúncia
+## Tela de Cadastro
+![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/cadastro.png)
+
+## Tela de Realizar Denúncia
 ![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/denuncia.png)
+
+## Tela de Analisar Denúncia
+![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/analise.png)
 
 ## Tela de Reputação de Plataforma
 ![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/plataforma.png)
