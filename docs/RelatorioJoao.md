@@ -1,7 +1,17 @@
 # Relatório individual etapa 2 projeto final
 ## João Victor Lima de Oliveira / 202403023
-## Front-End
-Fui responsável por uma parte do front-end, em que produzi algumas telas a partir do Scene Builder, que embora não sejam funcionais, são uma representação de como o projeto deveria ser mais próximo de seu lançamento.
+
+## Domínio do Ambiente e Ferramentas
+Foi utilizado o BlueJ e o Scene Builder para o projeto, eu utilizei majoritariamente o Scene Builder, para criar telas buscando mostrar como o projeto deveria ser próximo ao seu lançamento.
+
+## Domínio da Linguagem Java
+A base do projeto, que embora não tenha sido muito utilizada por mim nesse repositório, nessa pasta tem um exemplo um pouco de tudo utilizado, como classes, tela e até database.
+
+## Domínio da Modelagem
+Parte simples, somente um pouco demorada.
+
+## Domínio da Documentação
+Parte relativamente simples de fazer, umas poucas pesquisas e pronto.
 
 ## Tela de Login
 ![image](https://github.com/JoaoP9L/Telas-Projeto/blob/main/Prints/login.png)
