@@ -1,4 +1,4 @@
-# Relatório individual etapa 2 projeto final
+# Relatório Individual Etapa 2 Projeto Final
 ## João Victor Lima de Oliveira / 202403023
 
 ## Domínio do Ambiente e Ferramentas
