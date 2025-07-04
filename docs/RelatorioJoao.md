@@ -5,7 +5,7 @@
 Foi utilizado o BlueJ e o Scene Builder para o projeto, eu utilizei majoritariamente o Scene Builder, para criar telas buscando mostrar como o projeto deveria ser próximo ao seu lançamento.
 
 ## Domínio da Linguagem Java
-A base do projeto, que embora não tenha sido muito utilizada por mim nesse repositório, nessa pasta tem um exemplo um pouco de tudo utilizado, como classes, tela e até database.
+A base do projeto, que embora não tenha sido muito utilizada por mim nesse repositório, nessa pasta tem um exemplo com um pouco de tudo utilizado de Java, como classes, tela e até database.
 - [Aqui](ExtraJoao)
 
 ## Domínio da Modelagem
