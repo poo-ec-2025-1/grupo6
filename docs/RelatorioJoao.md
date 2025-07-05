@@ -5,8 +5,8 @@
 Foi utilizado o BlueJ e o Scene Builder para o projeto, eu utilizei majoritariamente o Scene Builder, para criar telas buscando mostrar como o projeto deveria ser próximo ao seu lançamento.
 
 ## Domínio da Linguagem Java
-A base do projeto, que embora não tenha sido muito utilizada por mim nesse repositório, nessa pasta tem um exemplo com um pouco de tudo utilizado de Java, como classes, tela e até database.
-- [Aqui](ExtraJoao)
+Como foi recomendado no feedback dado pelo professor, eu fiz a adaptação do código do tutorial de crud para esse projeto, que se encontra nessa pasta.
+- [Aqui](usuariomodel.md)
 
 ## Domínio da Modelagem
 Parte simples, somente um pouco demorada.
